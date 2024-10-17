@@ -1,0 +1,1036 @@
+@media only screen and (max-width: 1300px){
+    nav ul, nav .nav-btn {
+        display: none;
+    }
+    nav .toggle-btn {
+        display: block;
+        color: #fff;
+    }
+    .dropdown {
+        display: block;
+    }
+    .nav-btn {
+        text-align: center;
+    }
+    .dropdown li a {
+        color: #fff;
+    }
+    .nav-btn p a {
+        color: #fff;
+    }
+    .navbar-img div{
+        bottom: -340px;
+    }
+    .section-3-div-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sect-3-div-1-1{
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 120px;
+        margin-bottom: 30px;
+    }
+    .sect-3-div-1-2	p {
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .sect-3-div-2{
+        width: 100%;
+    }
+    .div-2-1-div-2 h4 {
+        margin-bottom: 120px;
+    }
+    .sect-4-div-2 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+        align-items: center;
+    }
+    .sect-4-div-2-1{
+        width: 100%;
+    }
+    .sect-4-div-2-2{
+        width: 100%;
+    }
+    .sect-4-div-2-3 {
+        width: 100%;
+    }
+    .sect-4-2-1 h4 {
+        font-size: 36px;
+    }
+    .sect-4-2-2 h4 {
+        font-size: 36px;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    .sect-3-div-1-1 h1 {
+        font-size: 110px;
+    }
+}
+
+@media only screen and (max-width: 1030px){
+    .sec-1-div{
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .hero-section-img{
+        width: 330px;
+    }
+    .navbar-img div {
+        width: 330px;
+        height: 330px;
+        bottom: -47px;
+        right: 22rem;
+    }
+    .navbar-img {
+        padding-left: 19.3rem;
+    }
+    .section-3-div-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sect-3-div-1-1{
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 90px;
+        margin-bottom: 30px;
+    }
+    .sect-3-div-1-2 p {
+        font-size: 30px;
+    }
+    .sect-3-div-2 {
+        width: 100%;
+    }
+    .sect-4-div-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+        align-items: center;
+    }
+    .sect-4-div-2-1{
+        width: 100%;
+    }
+    .sect-4-div-2-2{
+        width: 100%;
+    }
+    .sect-4-div-2-3{
+        width: 100%;
+    }
+    .sect-4-2-1 h4 {
+        font-size: 26px;
+    }
+    .sect-4-2-2 h4 {
+        font-size: 26px;
+    }
+    .section-5{
+        padding: 30px;
+    }
+    .sect-5-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .sect-5-div-2 img {
+        width: 200px;
+    }
+    form{
+        width: 100%;
+    }
+    .sect-5-div-1 {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-height: 600px){
+    .navbar-img div {
+        bottom: -800px;
+    }
+    .navbar-img{
+        padding-left: 21rem;
+    }
+}
+
+@media only screen and (max-width: 935px){
+    .navbar-img div {
+        width: 330px;
+        height: 330px;
+        bottom: -970px;
+        right: 18rem;
+    }
+    .navbar-img{
+        padding-left: 19rem;
+    }
+}
+
+@media only screen and (max-width: 930px){
+    .navbar-img div {
+        width: 330px;
+        height: 330px;
+        bottom: -47px;
+        right: 18rem;
+    }
+    .navbar-img{
+        padding-left: 17.5rem;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 70px;
+    }
+}
+
+@media only screen and (max-width: 910px){
+    .navbar-img div {
+        width: 330px;
+        height: 330px;
+        bottom: -985px;
+        right: 18rem;
+    }
+    .navbar-img{
+        padding-left: 17.5rem;
+    }
+}
+
+@media only screen and (max-width: 870px){
+    .navbar-img div {
+        width: 330px;
+        height: 330px;
+        bottom: -120px;
+        right: 16rem;
+    }
+    .navbar-img{
+        padding-left: 15.6rem;
+    }
+}
+
+@media only screen and (max-width: 850px){
+    .navbar-img div {
+        width: 330px;
+        height: 330px;
+        bottom: -1020px;
+        right: 16rem;
+    }
+    .navbar-img{
+        padding-left: 15rem;
+    }
+}
+
+@media only screen and (max-width: 835px){
+    .sec-1-div{
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .hero-section-img{
+        width: 270px;
+    }
+    .navbar-img div {
+        width: 250px;
+        height: 250px;
+        bottom: -170px;
+        right: 16.6rem;
+    }
+    .navbar-img {
+        padding-left: 16.2rem;
+    }
+    .section-3-div-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sect-3-div-1-1 {
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 70px;
+        margin-bottom: 30px;
+    }
+    .sect-3-div-1-2 p {
+        font-size: 28px;
+    }
+    .sect-3-div-2{
+        width: 100%;
+    }
+    .sect-4-div-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+        align-items: center;
+    }
+    .sect-4-div-2-1{
+        width: 100%;
+    }
+    .sect-4-div-2-2{
+        width: 100%;
+    }
+    .sect-4-div-2-3{
+        width: 100%;
+    }
+    .sect-4-2-1 h4 {
+        font-size: 22px;
+    }
+    .sect-4-2-2 h4 {
+        font-size: 22px;
+    }
+    .section-5{
+        padding: 30px;
+    }
+    .sect-5-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .sect-5-div-2 img {
+        width: 200px;
+    }
+    form{
+        width: 100%;
+    }
+    .sect-5-div-1 {
+        width: 100%;
+    }
+    footer {
+        margin-top: 60px;
+    }
+    .footer-elements {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    .footer-elements div p {
+        font-size: 23px;
+    }
+}
+
+@media only screen and (max-width: 800px){
+    .sec-1-div {
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .hero-section-img{
+        width: 250px;
+    }
+    .navbar-img div {
+        width: 250px;
+        height: 250px;
+        bottom: -290px;
+        right: 16.1rem;
+    }
+    .navbar-img {
+        padding-left: 15.7rem;
+    }
+    .section-3-div-1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sect-3-div-1-1{
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1 {
+        margin-bottom: 30px;
+        font-size: 60px;
+    }
+    .sect-3-div-1-2 p {
+        font-size: 23px;
+    }
+    .sect-3-div-2 {
+        width: 100%;
+    }
+    .sect-4-div-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+        align-items: center;
+    }
+    .sect-4-div-2-1{
+        width: 100%;
+    }
+    .sect-4-div-2-2{
+        width: 100%;
+    }
+    .sect-4-div-2-3{
+        width: 100%;
+    }
+    .sect-4-2-1 h4 {
+        font-size: 18px;
+    }
+    .sect-4-2-2 h4 {
+        font-size: 18px;
+    }
+    .section-5{
+        padding: 30px;
+    }
+    .sect-5-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .sect-5-div-2 img {
+        width: 200px;
+    }
+    form{
+        width: 100%;
+    }
+    .sect-5-div-1 {
+        width: 100%;
+    }
+    footer {
+        margin-top: 60px;
+    }
+    .footer-elements {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    .footer-elements div p {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 760px){
+    .navbar-img div {
+        width: 270px;
+        height: 270px;
+        bottom: -950px;
+        right: 15rem;
+    }
+    .navbar-img{
+        padding-left: 14.5rem;
+    }
+}
+
+@media only screen and (max-width: 670px){
+    .navbar-img div {
+        width: 260px;
+        height: 260px;
+        bottom: -975px;
+        right: 12.5rem;
+    }
+    .navbar-img{
+        padding-left: 12.7rem;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    .navbar-text i{
+        font-size: 25px;
+    }
+    .navbar-text{
+        width: 60%;
+    }
+    .navbar-hero  h1 {
+        font-size: 56px;
+    }
+    .navbar-hero-text{
+        font-size: 26px;
+    }
+    .navbar-img div {
+        width: 230px;
+        height: 230px;
+        bottom: -520px;
+        right: 10rem;
+    }
+    .navbar-img{
+        padding-left: 7.7rem;
+    }
+    .rating-numbers{
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 47px;
+    }
+    footer {
+        margin-top: 60px;
+    }
+    .footer-elements {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    .footer-elements div p {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 450px){
+    .dropdown{
+        right: 2.5rem;
+        top: 150px;
+    }
+    .sec-1-div {
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .hero-section-img {
+        width: 200px;
+    }
+    .navbar-img div {
+        width: 200px;
+        height: 200px;
+        bottom: 20px;
+        right: 7.3rem;
+    }
+    .navbar-img {
+        padding-left: 6rem;
+    }
+    .navbar-text {
+        width: 60%;
+    }
+    .navbar-text p {
+        font-size: 8px;
+    }.navbar-text i {
+        font-size: 12px;
+    }
+    .navbar-hero h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .navbar-hero-text {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .hero-btn-1, .hero-btn-2 {
+        font-size: 12px;
+        padding: 10px 16px;
+    }
+    .rating-numbers{
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        width: 100%;
+    }
+    .section-3-div-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sect-3-div-1-1 {
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 37.5px;
+        margin-bottom: 30px;
+    }
+    .insurance-services{
+        width: 100%;
+    }
+    .sect-3-div-2{
+        width: 100%;
+    }
+    .div-2-1-div-1 h4 {
+        font-size: 15px;
+    }
+    .div-2-1-div-2 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(3) .div-2-1-div-1 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(3) .div-2-1-div-2 h4 {
+        font-size: 15px;
+    }
+    .sect-3-div-2:nth-child(4) .div-2-1-div-1 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(4) .div-2-1-div-2 h4 {
+        font-size: 15px;
+    }
+    .sect-4-div-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+        align-items: center;
+    }
+    .sect-4-div-2-1{
+        width: 100%;
+    }
+    .sect-4-div-2-2{
+        width: 100%;
+    }
+    .sect-4-div-2-3{
+        width: 100%;
+    }
+    .sect-4-2-1 i{
+        font-size: 15px;
+        margin: 8px;
+    }
+    .sect-4-2-2 i {
+        font-size: 15px;
+        margin-right: 8px;
+    }
+    .members h4 {
+        font-size: 12px;
+    }
+    .members-profile img {
+        width: 30px;
+    }
+    .section-5{
+        padding: 30px;
+    }
+    .sect-5-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .sect-5-div-2 img {
+        width: 200px;
+    }
+    form{
+        width: 100%;
+    }
+    .sect-5-div-1 {
+        width: 100%;
+    }
+    footer {
+        margin-top: 60px;
+    }
+    .footer-elements {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    .footer-elements div p {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 430px){
+    .dropdown{
+        right: 2rem;
+        top: 150px;
+    }
+    .sec-1-div {
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .hero-section-img {
+        width: 200px;
+    }
+    .navbar-img div {
+        width: 200px;
+        height: 200px;
+        bottom: -20px;
+        right: 6.5rem;
+    }
+    .navbar-img {
+        padding-left: 5.2rem;
+    }
+    .navbar-text {
+        width: 60%;
+    }
+    .navbar-text p {
+        font-size: 8px;
+    }.navbar-text i {
+        font-size: 12px;
+    }
+    .navbar-hero h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .navbar-hero-text {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .hero-btn-1, .hero-btn-2 {
+        font-size: 12px;
+        padding: 10px 16px;
+    }
+    .section-5{
+        padding: 30px;
+    }
+    .sect-5-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .sect-5-div-2 img {
+        width: 200px;
+    }
+    form{
+        width: 100%;
+    }
+    .sect-5-div-1 {
+        width: 100%;
+    }
+    footer {
+        margin-top: 60px;
+    }
+    .footer-elements {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    .footer-elements div p {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 415px){
+    .navbar-img div {
+        width: 200px;
+        height: 200px;
+        bottom: -10px;
+        right: 6.5rem;
+    }
+    .navbar-img {
+        padding-left: 5.5rem;
+    }
+    .rating-numbers {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        width: 100%;
+    }
+    .section-3-div-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sect-3-div-1-1 {
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1{
+        margin-bottom: 30px;
+        font-size: 37px;
+    }
+    .insurance-services{
+        width: 100%;
+    }
+    .sect-3-div-2{
+        width: 100%;
+    }
+    .div-2-1-div-1 h4 {
+        font-size: 15px;
+    }
+    .div-2-1-div-2 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(3) .div-2-1-div-1 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(3) .div-2-1-div-2 h4 {
+        font-size: 15px;
+    }
+    .sect-3-div-2:nth-child(4) .div-2-1-div-1 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(4) .div-2-1-div-2 h4 {
+        font-size: 15px;
+    }
+    .sect-4-div-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        align-items: center;
+    }
+    .sect-4-div-2-1{
+        width: 100%;
+    }
+    .sect-4-div-2-2{
+        width: 100%;
+    }
+    .sect-4-div-2-3{
+        width: 100%;
+    }
+    .sect-4-2-1 i{
+        font-size: 15px;
+        margin: 8px;
+    }
+    .sect-4-2-2 i {
+        font-size: 15px;
+        margin-right: 8px;
+    }
+    .members h4 {
+        font-size: 12px;
+    }
+    .members-profile img {
+        width: 25px;
+    }
+}
+
+@media only screen and (max-width: 410px){
+    .dropdown{
+        right: 1.3rem;
+        top: 150px;
+    }
+    .navbar-img div {
+        width: 200px;
+        height: 200px;
+        bottom: -82px;
+        right: 6.3rem;
+    }
+    .navbar-img {
+        padding-left: 4.7rem;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 34px;
+    }
+}
+
+@media only screen and (max-width: 380px){
+    .dropdown{
+        right: 1rem;
+        top: 150px;
+    }
+    .sec-1-div {
+        display: flex;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+    .hero-section-img {
+        width: 200px;
+    }
+    .navbar-img div {
+        width: 200px;
+        height: 200px;
+        bottom: -260px;
+        right: 5.5rem;
+    }
+    .navbar-img {
+        padding-left: 4.4rem;
+    }
+    .navbar-text {
+        width: 60%;
+    }
+    .navbar-text p {
+        font-size: 8px;
+    }.navbar-text i {
+        font-size: 12px;
+    }
+    .navbar-hero h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .navbar-hero-text {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .hero-btn-1, .hero-btn-2 {
+        font-size: 12px;
+        padding: 10px 16px;
+    }
+    .rating-numbers {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+    .section-3-div-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .insurance-services{
+        width: 100%;
+    }
+    .sect-3-div-2 {
+        width: 100%;
+    }
+    .sect-3-div-1-1{
+        width: 100%;
+    }
+    .sect-3-div-1-1 h1{
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+    .sect-3-div-1-2 p {
+        font-size: 15px;
+    }
+    .div-2-1-div-1 h4 {
+        font-size: 15px;
+    }
+    .div-2-1-div-2 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(3) .div-2-1-div-1 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(3) .div-2-1-div-2 h4 {
+        font-size: 15px;
+    }
+    .sect-3-div-2:nth-child(4) .div-2-1-div-1 h4 {
+        font-size: 12px;
+    }
+    .sect-3-div-2:nth-child(4) .div-2-1-div-2 h4 {
+        font-size: 15px;
+    }
+    .sect-4-div-2 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 35px;
+    }
+    .sect-4-2-1 i{
+        font-size: 15px;
+    }
+    .sect-4-2-1 h4 {
+        font-size: 15px;
+    }
+    .sect-4-2-2 i {
+        font-size: 15px;
+    }
+    .sect-4-2-2 h4 {
+        font-size: 15px;
+    }
+    .sect-4-div-2-1{
+        width: 100%;
+    }
+    .sect-4-div-2-2 {
+        width: 100%;
+    }
+    .sect-4-div-2-3 {
+        width: 100%;
+    }
+    .members h4 {
+        font-size: 12px;
+    }
+    .members-profile img {
+        width: 20px;
+    }
+    .section-5{
+        padding: 30px;
+    }
+    .sect-5-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .sect-5-div-2 img {
+        width: 200px;
+    }
+    form{
+        width: 100%;
+    }
+    .sect-5-div-1 {
+        width: 100%;
+    }
+    footer {
+        margin-top: 60px;
+    }
+    .footer-elements {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    .footer-elements div p {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 370px){
+    .dropdown{
+        right: 1.2rem;
+        top: 150px;
+        width: 320px;
+    }
+    .navbar-img div {
+        width: 200px;
+        height: 200px;
+        bottom: -245px;
+        right: 5rem;
+    }
+    .navbar-img {
+        padding-left: 4rem;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 31px;
+    }
+    .div-2-2 i {
+        font-size: 90px;
+    }
+    .members h4 {
+        font-size: 10px;
+    }
+    .members-profile img {
+        width: 22px;
+    }
+    .sect-4-2-1 h4 {
+        font-size: 12px;
+    }
+    .sect-4-2-2 h4 {
+        font-size: 12px;
+    }
+    .sect-4-3 h5 {
+        font-size: 14px;
+    }
+    footer {
+        margin-top: 60px;
+    }
+    .footer-elements {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-between;
+        margin-top: 80px;
+    }
+    .footer-elements div p {
+        font-size: 8px;
+    }
+    .footer-elements ul i {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+}
+
+@media only screen and (max-width: 350px){
+    .dropdown{
+        right: 1.6rem;
+        top: 150px;
+        width: 290px;
+    }
+    .navbar-text{
+        width: 70%;
+    }
+    .navbar-hero h1{
+        font-size: 36px;
+    }
+    .navbar-img div {
+        width: 200px;
+        height: 200px;
+        bottom: -47px;
+        right: 4.5rem;
+    }
+    .navbar-img {
+        padding-left: 3.5rem;
+    }
+    .sect-3-div-1-1 h1 {
+        font-size: 29px;
+    }
+    .div-2-2 i {
+        font-size: 70px;
+    }
+    .sect-4-tech div h5 {
+        font-size: 11px;
+    }
+    .members h4 {
+        font-size: 10px;
+    }
+    .members-profile img {
+        width: 18px;
+    }
+}
